@@ -4,15 +4,15 @@
 
 ## Table of Contents:
 
-- [Problem Statement](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#problem-statement-)
-- [Data Discovery](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-discovery-)
-- [Data Analysis using MySQL ](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis-using-mysql-)
-- [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)
-- [Data Modeling](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis--dax)
-- [Build Dashboard Or a Report](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#build-dashboard-or-a-report)
-- [Tools, Software and Libraries](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#tools-software-and-libraries-)
-- [References](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#references-)
+- [Problem Statement](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#problem-statement-)
+- [Data Discovery](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#data-discovery-)
+- [Data Analysis using MySQL ](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#data-analysis-using-mysql-)
+- [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#data-cleaning-and-etl-extract-transform-load)
+- [Data Modeling](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#data-modeling)
+- [Data Analysis (DAX)](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#data-analysis--dax)
+- [Build Dashboard Or a Report](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#build-dashboard-or-a-report)
+- [Tools, Software and Libraries](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#tools-software-and-libraries-)
+- [References](https://github.com/pratiktamgadge/Sales_insights_of_data_analysis-AtliQ_Hardware#references-)
 
 
 ## Problem Statement :
